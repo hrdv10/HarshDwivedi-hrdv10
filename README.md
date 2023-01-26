@@ -1,7 +1,7 @@
 # HarshDwivedi-hrdv10
 ##Frontend Developer||solidity Developer|| web 3 enthusiast 
 # 💫 About Me:
-🔭 I’m currently working on an face recognition application<br>🌱 I’m also learning NodeJs, React, Python, aws,devops , automation /manual testing  , blockchain Development and Bash<br>👨‍💻  All of my projects are available at (https://github.com/hrdv10/hrdv10)<br>💬 Ask me questions about HTML, CSS, JS, Wordpress, smart-contract, blockchain development, crypto-trading .<br>⚡ Fun fact I believe in simplicity  and i'am entertaining.
+🔭 I’m currently working on an face recognition application<br>🌱 I’m also learning NodeJs, React, Python, aws,devops , automation /manual testing  , blockchain Development and Bash<br>👨‍💻  All of my projects are available at (https://github.com/hrdv10)<br>💬 Ask me questions about HTML, CSS, JS, Wordpress, smart-contract, blockchain development, crypto-trading .<br>⚡ Fun fact I believe in simplicity  and i'am entertaining.
 
 
 ## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/highvedy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-dwivedi-8565121b4/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HAshvedy) 
