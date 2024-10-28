@@ -1,5 +1,5 @@
 # HarshDwivedi-hrdv10
-##Frontend Developer||solidity Developer|| web 3 enthusiast 
+# fullstack software Developer|| ML enthusiast
 # 💫 About Me:
 🔭 I’m currently working on an face recognition application<br>🌱 I’m also learning NodeJs, React, Python, aws,devops , automation /manual testing  , blockchain Development and Bash<br>👨‍💻  All of my projects are available at (https://github.com/hrdv10)<br>💬 Ask me questions about HTML, CSS, JS, Wordpress, smart-contract, blockchain development, crypto-trading .<br>⚡ Fun fact I believe in simplicity  and i'am entertaining.
 
@@ -16,7 +16,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=techvaness&icon=0&color=9)](https://visitcount.itsvg.in)
 
-  ## 💰 you can ask me for all types of services and help me by donating me a cup of coffee . 
+ 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/highvedy)
 
   
