@@ -1,4 +1,4 @@
-# HarshDwivedi-hrdv10
+# Harsh D
 # fullstack software Developer|| ML enthusiast
 # 💫 About Me:
 🔭 I’m currently working on an face recognition application<br>🌱 I’m also learning NodeJs, React, Python, aws,devops , automation /manual testing  , blockchain Development and Bash<br>👨‍💻  All of my projects are available at (https://github.com/hrdv10)<br>💬 Ask me questions about HTML, CSS, JS, Wordpress, smart-contract, blockchain development, crypto-trading .<br>⚡ Fun fact I believe in simplicity  and i'am entertaining.
